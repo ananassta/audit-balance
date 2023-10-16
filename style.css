@@ -280,7 +280,14 @@ nav ul {
   text-shadow: 3px 3px 7px rgba(0, 0, 0, 0.3);
 }
 
-.why_we li {
+.why_we h3 {
+  font-size: 5.5vh;
+  margin-bottom: 2vh;
+  color: #555555;
+  text-shadow: 3px 3px 7px rgba(0, 0, 0, 0.3);
+}
+
+.why_we li, .why_we a {
   font-size: 4vh;
   /* font-size: 2vw; */
   color: #555555;
